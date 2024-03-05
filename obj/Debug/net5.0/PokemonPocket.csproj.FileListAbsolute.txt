@@ -1,0 +1,32 @@
+C:/Visual Studio Code Projects/PokemonPocket_Main/obj/Debug/net5.0/PokemonPocket.csproj.AssemblyReference.cache
+C:/Visual Studio Code Projects/PokemonPocket_Main/obj/Debug/net5.0/PokemonPocket.GeneratedMSBuildEditorConfig.editorconfig
+C:/Visual Studio Code Projects/PokemonPocket_Main/obj/Debug/net5.0/PokemonPocket.AssemblyInfoInputs.cache
+C:/Visual Studio Code Projects/PokemonPocket_Main/obj/Debug/net5.0/PokemonPocket.AssemblyInfo.cs
+C:/Visual Studio Code Projects/PokemonPocket_Main/obj/Debug/net5.0/PokemonPocket.csproj.CoreCompileInputs.cache
+C:/Visual Studio Code Projects/PokemonPocket_Main/bin/Debug/net5.0/PokemonPocket.exe
+C:/Visual Studio Code Projects/PokemonPocket_Main/bin/Debug/net5.0/PokemonPocket.deps.json
+C:/Visual Studio Code Projects/PokemonPocket_Main/bin/Debug/net5.0/PokemonPocket.runtimeconfig.json
+C:/Visual Studio Code Projects/PokemonPocket_Main/bin/Debug/net5.0/PokemonPocket.runtimeconfig.dev.json
+C:/Visual Studio Code Projects/PokemonPocket_Main/bin/Debug/net5.0/PokemonPocket.dll
+C:/Visual Studio Code Projects/PokemonPocket_Main/bin/Debug/net5.0/ref/PokemonPocket.dll
+C:/Visual Studio Code Projects/PokemonPocket_Main/bin/Debug/net5.0/PokemonPocket.pdb
+C:/Visual Studio Code Projects/PokemonPocket_Main/obj/Debug/net5.0/PokemonPocket.dll
+C:/Visual Studio Code Projects/PokemonPocket_Main/obj/Debug/net5.0/ref/PokemonPocket.dll
+C:/Visual Studio Code Projects/PokemonPocket_Main/obj/Debug/net5.0/PokemonPocket.pdb
+C:/Visual Studio Code Projects/PokemonPocket_Main/obj/Debug/net5.0/PokemonPocket.genruntimeconfig.cache
+/Users/mom-istd/Downloads/PokemonPocket_Main/bin/Debug/net5.0/PokemonPocket
+/Users/mom-istd/Downloads/PokemonPocket_Main/bin/Debug/net5.0/PokemonPocket.deps.json
+/Users/mom-istd/Downloads/PokemonPocket_Main/bin/Debug/net5.0/PokemonPocket.runtimeconfig.json
+/Users/mom-istd/Downloads/PokemonPocket_Main/bin/Debug/net5.0/PokemonPocket.runtimeconfig.dev.json
+/Users/mom-istd/Downloads/PokemonPocket_Main/bin/Debug/net5.0/PokemonPocket.dll
+/Users/mom-istd/Downloads/PokemonPocket_Main/bin/Debug/net5.0/PokemonPocket.pdb
+/Users/mom-istd/Downloads/PokemonPocket_Main/obj/Debug/net5.0/PokemonPocket.csproj.AssemblyReference.cache
+/Users/mom-istd/Downloads/PokemonPocket_Main/obj/Debug/net5.0/PokemonPocket.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mom-istd/Downloads/PokemonPocket_Main/obj/Debug/net5.0/PokemonPocket.AssemblyInfoInputs.cache
+/Users/mom-istd/Downloads/PokemonPocket_Main/obj/Debug/net5.0/PokemonPocket.AssemblyInfo.cs
+/Users/mom-istd/Downloads/PokemonPocket_Main/obj/Debug/net5.0/PokemonPocket.csproj.CoreCompileInputs.cache
+/Users/mom-istd/Downloads/PokemonPocket_Main/obj/Debug/net5.0/PokemonPocket.dll
+/Users/mom-istd/Downloads/PokemonPocket_Main/obj/Debug/net5.0/refint/PokemonPocket.dll
+/Users/mom-istd/Downloads/PokemonPocket_Main/obj/Debug/net5.0/PokemonPocket.pdb
+/Users/mom-istd/Downloads/PokemonPocket_Main/obj/Debug/net5.0/PokemonPocket.genruntimeconfig.cache
+/Users/mom-istd/Downloads/PokemonPocket_Main/obj/Debug/net5.0/ref/PokemonPocket.dll
